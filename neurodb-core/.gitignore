@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Test/tooling caches
+.pytest_cache/
+
+# Runtime project data (created by StorageEngine / the control-plane sqlite db)
+neurodb_data/
+
+# Local secrets (e.g. NEURODB_CAPTION_API_KEY) — see .env.example
+.env
