@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Per-package ignores live in neurodb-core/.gitignore and neurodb-web/.gitignore
+
+# Local Claude Code settings
+.claude/
